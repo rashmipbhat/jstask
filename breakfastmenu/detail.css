@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bold;
+    columns: #8e44ad;
+    background-color: #f4ecf7;
+}
+img{
+    width:600px;
+    height:400px;
+    margin:20px 350px;
+}
+
+p{
+    margin:20px 600px;
+}
+
+form{
+    margin-left:530px;
+    margin-top: 30px;
+}
+
+button{
+     margin-top:20px;
+     margin-left: 640px;
+}
